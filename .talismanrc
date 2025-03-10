@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: .env
+  checksum: 1a0bb21d6a915e506a21d07553a4a7bdb8b57310bd53876e0adb5a97ca056e58
+- filename: Cargo.lock
+  checksum: dbef01c0e9b6e7d1e67142307c0dae56f486775c9cb405fdd0d827909be1d028
+- filename: docker-compose.yml
+  checksum: a77d2f5e51c771a4a30def1e986e3f6077f2efd1937e18567ed5c9f5514e3bb3
+version: "1.0"
